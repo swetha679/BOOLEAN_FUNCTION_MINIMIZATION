@@ -41,8 +41,17 @@ Developed by: RegisterNumber:*/
 
 **RTL realization**
 
+![Screenshot (46)](https://github.com/user-attachments/assets/dcd59548-f2c5-4d06-b380-9b42cad00deb)
+
+
+![Screenshot (48)](https://github.com/user-attachments/assets/09c4741b-7451-40cf-8482-8e1f4b35ad1b)
+
+
+
 **Output:**
-![Screenshot (48)](https://github.com/user-attachments/assets/a94092f6-690a-45bb-8c2e-73c38aa40e89)
+
+
+
 
 
 **Result:**
