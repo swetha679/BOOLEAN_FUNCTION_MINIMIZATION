@@ -42,6 +42,7 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
  
 
 Developed by: Swetha Nivasini  B R
+
 RegisterNumber:24900367
 
 module funct1(a,b,c,d,f1);
