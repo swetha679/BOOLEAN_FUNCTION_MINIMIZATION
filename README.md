@@ -50,6 +50,10 @@ Developed by: RegisterNumber:*/
 
 **Output:**
 
+![Screenshot (104)](https://github.com/user-attachments/assets/01cfc80e-2166-44d1-bcc8-365025b6e749)
+
+
+![Screenshot (105)](https://github.com/user-attachments/assets/961643a6-cb96-4220-b614-3552e9598d7b)
 
 
 
