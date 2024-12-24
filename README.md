@@ -10,7 +10,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 **Equipment Required:**
 
-Hardware – PCs, Cyclone II , USB flasher
+Hardware – PCs, Cyclone II, USB flasher
 
 
 **Software – Quartus prime** 
@@ -19,6 +19,11 @@ Hardware – PCs, Cyclone II , USB flasher
 Boolean Algebra is a branch of algebra that deals with boolean values—true and false. It is fundamental to digital logic design and computer science, providing a mathematical framework for describing logical operations and expressions
 
 **Logic Diagram**
+
+![TRUTH TABLE (1)](https://github.com/user-attachments/assets/08a4df84-a377-4506-85e7-aab6f7d562de)
+
+
+
 
 **Procedure**
 
@@ -36,8 +41,8 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
 **Program:**
  
 
-Developed by:
-RegisterNumber:
+Developed by: Swetha Nivasini  B R
+RegisterNumber:24900367
 
 module funct1(a,b,c,d,f1);
 input a,b,c,d;
