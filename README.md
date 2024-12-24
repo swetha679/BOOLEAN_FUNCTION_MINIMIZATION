@@ -10,13 +10,17 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 **Equipment Required:**
 
-Hardware – PCs, Cyclone II , USB flasher
+Hardware – PCs, Cyclone II, USB flasher
 
 **Software – Quartus prime**
 
 **Theory**
 
+Boolean Algebra is a branch of algebra that deals with boolean values—true and false. It is fundamental to digital logic design and computer science, providing a mathematical framework for describing logical operations and expressions
 **Logic Diagram**
+
+![TRUTH TABLE (1)](https://github.com/user-attachments/assets/7cb55cc2-3634-4317-ad56-197eeb3839b0)
+
 
 **Procedure**
 
@@ -32,21 +36,55 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+f1
+'''module funct1(a,b,c,d,f1);
+input a,b,c,d;
+output f1;
+assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
+endmodule '''
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+f2
+'''
+module funct2(w,x,y,z,f2);
+input w,x,y,z;
+output f2;
+assign f2=((~y & z)|( w & y )|(x & y));
+endmodule '''
 
-Developed by: RegisterNumber:*/
+
+
+
+
 
 
 **RTL realization**
 
+f1 
+
+![Screenshot (46)](https://github.com/user-attachments/assets/7fcd5934-8fda-437f-b480-ff59b7be02a1)
+
+
+f2
+
+
+![Screenshot (48)](https://github.com/user-attachments/assets/6348c472-a0ca-48a6-9985-0fa995ebba9f)
+
+
+
+
 **Output:**
 
-**RTL**
+f1
 
-**Timing Diagram**
+![Screenshot (104)](https://github.com/user-attachments/assets/23e04f42-33f9-4f78-8fbe-035f92e8979c)
+
+
+f2
+
+![Screenshot (105)](https://github.com/user-attachments/assets/dacc8f0c-f026-449f-82ee-7f35a42c6916)
+
 
 **Result:**
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Thus the given logic functions are implemented und their operations are verified using Verilog programming.
 
