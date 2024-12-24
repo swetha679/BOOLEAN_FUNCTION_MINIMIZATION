@@ -42,10 +42,8 @@ Developed by: RegisterNumber:*/
 **RTL realization**
 
 **Output:**
+![Screenshot (48)](https://github.com/user-attachments/assets/a94092f6-690a-45bb-8c2e-73c38aa40e89)
 
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
 
